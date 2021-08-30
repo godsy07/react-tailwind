@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className='flex flex-col items-center'>
       <NavbarContainer />
-      <p className='text-red-500'>Hello</p>
+      <div className='min-h-full w-full'></div>
     </div>
   );
 };
